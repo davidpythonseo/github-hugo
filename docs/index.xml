@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on Github Pages Hugo site</title>
+    <link>https://davidpythonseo.github.io/github-hugo/docs/</link>
+    <description>Recent content in Docs on Github Pages Hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 May 2023 08:41:12 +0800</lastBuildDate><atom:link href="https://davidpythonseo.github.io/github-hugo/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何设计&amp;&amp;管理一个高大上Github</title>
+      <link>https://davidpythonseo.github.io/github-hugo/docs/test/</link>
+      <pubDate>Mon, 29 May 2023 08:41:12 +0800</pubDate>
+      
+      <guid>https://davidpythonseo.github.io/github-hugo/docs/test/</guid>
+      <description>如何设计&amp;amp;&amp;amp;管理一个高大上Github xxxxx.github.io 首页:用来做为博客和工具导航 github.com/xxxxx 内页:用来做分类部署教程 研究报告等 LangChain Web3 Seo 搜索关键词 github hugo 视频链接:
+https://www.youtube.com/watch?v=_QSr2_pxIJs Deploy Hugo Blog to Github Pages via Github Actions Custom Domain 通过Github操作将Hugo博客部署到Github Pages绑定域名 播放节点:
+0:00 Intro 介绍 0:33 Install Hugo, create a new site &amp;amp; a page 安装Hugo创建新站 1:48 Install the PaperMod theme &amp;amp; add the theme in config.yml 安装PaperMod模版并配置 3:03 Add minimal content in docs/test.md and run locally 增加内容并本地部署 3:52 Create a git repository 创建git仓库 4:52 Create a gh-pages branch in the repo important 创建页面分支 5:20 Set read &amp;amp; write permissions for workflow important 阅读并撰写git工作流脚本 5:33 Create the github actions deploy file 创建github actions部署 6:21 Edit the baseurl in config.</description>
+    </item>
+    
+  </channel>
+</rss>
