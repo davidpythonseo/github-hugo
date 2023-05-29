@@ -1,4 +1,4 @@
-baseURL: https://davidpythonseo.github.io/
+baseURL: "https://davidpythonseo.github.io/github-hugo/"
 languageCode: en-us
 title: Github Pages Hugo site
 theme: PaperMod
